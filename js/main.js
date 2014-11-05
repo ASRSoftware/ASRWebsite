@@ -19,7 +19,7 @@ jQuery(function($) {
 	});	
 	//End goto top		
 
-	$('a.portfolio').on('click', function(e){
+	$(document).on('click','a.portfolio', function(e){
 		e.preventDefault();
 		$('body').append('<div id="preview-portfolio-item" style="display:none"><div class="close-preview-portfolio-item"></div><div class="element"></div></div>');
 		var href = $(this).attr('href');
@@ -29,7 +29,7 @@ jQuery(function($) {
 			resizePreview();
 		});
 	});
-	$('.close-preview-portfolio-item').on('click', function(){
+	$(document).on('click','.close-preview-portfolio-item', function(){
 		$(this).parents('#preview-portfolio-item').fadeOut();
 	});
 
