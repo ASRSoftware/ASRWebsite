@@ -19,4 +19,27 @@ jQuery(function($) {
 	});	
 	//End goto top		
 
+	$('a.portfolio').on('click', function(e){
+		e.preventDefault();
+		$('body').append('<div id="preview-portfolio-item" style="display:none"><div class="close-preview-portfolio-item"></div><div class="element"></div></div>');
+		var href = $(this).attr('href');
+		$.get(href, function(html){
+			$('#preview-portfolio-item .element').html(html);
+			$('#preview-portfolio-item').fadeIn('fast');
+			resizePreview();
+		});
+	});
+	$('.close-preview-portfolio-item').on('click', function(){
+		$(this).parents('#preview-portfolio-item').fadeOut();
+	});
+
+	resizePreview = function(){
+		// var height = $('#preview-portfolio-item #portfolio-single').height();
+		$elm = $('#preview-portfolio-item #portfolio-single');
+		$elm.css({
+			'margin-top': -$elm.height()/2,
+			'margin-left': -$elm.width()/2
+		});
+	}
 });
+

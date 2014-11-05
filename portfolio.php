@@ -27,7 +27,7 @@
                     <div class="overlay">
                     </div>
                     <div class="links">
-                        <a data-toggle="modal" href="#modal-1"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
+                        <a class="portfolio" href="portfolio-single.html"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
                     </div>
                 </div>
                 <div class="desc">
