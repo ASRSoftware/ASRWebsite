@@ -46,6 +46,20 @@
             </div>
         </div>
         <!--Slider Item3-->
+		
+		
+		<!--Slider Item4-->
+		<div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                <div class="sl-slide-inner">
+                    <div class="container">
+                        <img class="pull-right" src="images/sample/slider/img4.png" alt="" />
+                    </div>
+                </div>
+            </div>
+		
+		<!--Slider Item4-->
+		
+		
 
     </div>
     <!--/Slider Items-->
@@ -168,20 +182,21 @@
             <!--Item 1-->
             <li>
                 <div class="preview">
-                    <img alt=" " src="images/portfolio/thumb/item1.jpg">
+                    <img alt=" " src="images/portfolio/full/Pal&Pal.jpg">
                     <div class="overlay">
                     </div>
                     <div class="links">
-                        <a data-toggle="modal" href="#modal-1"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                          
+                        <a class="portfolio" href="portfolio-single.html"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
                     </div>
                 </div>
                 <div class="desc">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>PAL&PAL</h5>
+                    <small>Manufacture company</small>
                 </div>
                 <div id="modal-1" class="modal hide fade">
                     <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"><i class="icon-remove"></i></a>
                     <div class="modal-body">
-                        <img src="images/portfolio/full/item1.jpg" alt=" " width="100%" style="max-height:400px">
+                        <img src="images/portfolio/full/Pal&Pal.jpg" alt=" " width="100%" style="max-height:400px">
                     </div>
                 </div>                 
             </li>
@@ -190,15 +205,16 @@
             <!--Item 2-->
             <li>
                 <div class="preview">
-                    <img alt=" " src="images/portfolio/thumb/item2.jpg">
+                    <img alt=" " src="images/portfolio/thumb/Vrudhi.jpg">
                     <div class="overlay">
                     </div>
                     <div class="links">
-                        <a data-toggle="modal" href="#modal-1"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
+                        <a class="portfolio" href="Vrudhi.html"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
                     </div>
                 </div>
                 <div class="desc">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>Vrudhi</h5>
+                    <small>Health Organization</small>
                 </div>
                 <div id="modal-1" class="modal hide fade">
                     <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"><i class="icon-remove"></i></a>
@@ -212,20 +228,21 @@
             <!--Item 3-->
             <li>
                 <div class="preview">
-                    <img alt=" " src="images/portfolio/thumb/item3.jpg">
+                    <img alt=" " src="images/portfolio/thumb/R.S.CArgoMovers.jpg">
                     <div class="overlay">
                     </div>
                     <div class="links">
-                        <a data-toggle="modal" href="#modal-3"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
+                        <a class="portfolio" href="RSCargo.html"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
                     </div>
                 </div>
                 <div class="desc">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>R.S.Cargo Movers</h5>
+                    <small>Shipping Company</small>
                 </div>
                 <div id="modal-3" class="modal hide fade">
                     <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"><i class="icon-remove"></i></a>
                     <div class="modal-body">
-                        <img src="images/portfolio/full/item3.jpg" alt=" " width="100%" style="max-height:400px">
+                        <img src="images/portfolio/full/R.S.CArgoMovers.jpg" alt=" " width="100%" style="max-height:400px">
                     </div>
                 </div>                 
             </li>
@@ -234,20 +251,21 @@
             <!--Item 4-->
             <li>
                 <div class="preview">
-                    <img alt=" " src="images/portfolio/thumb/item4.jpg">
+                    <img alt=" " src="images/portfolio/thumb/z4.jpg">
                     <div class="overlay">
                     </div>
                     <div class="links">
-                        <a data-toggle="modal" href="#modal-4"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
+                        <a class="portfolio" href="z4.html"><i class="icon-eye-open"></i></a><a href="#"><i class="icon-link"></i></a>                                
                     </div>
                 </div>
                 <div class="desc">
-                    <h5>Lorem ipsum dolor sit amet</h5>
+                    <h5>zephyr</h5>
+                    <small>Event</small>
                 </div>
                 <div id="modal-4" class="modal hide fade">
                     <a class="close-modal" href="javascript:;" data-dismiss="modal" aria-hidden="true"><i class="icon-remove"></i></a>
                     <div class="modal-body">
-                        <img src="images/portfolio/full/item4.jpg" alt=" " width="100%" style="max-height:400px">
+                        <img src="images/portfolio/full/z4.jpg" alt=" " width="100%" style="max-height:400px">
                     </div>
                 </div>                 
             </li>
