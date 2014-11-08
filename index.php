@@ -295,10 +295,10 @@
                     <div class="active item">
                         <div class="row-fluid">
                             <ul class="thumbnails">
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client1.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client2.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client3.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client4.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo1.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo2.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo3.png"></a></li>
                             </ul>
                         </div>
                     </div>
@@ -306,10 +306,10 @@
                     <div class="item">
                         <div class="row-fluid">
                             <ul class="thumbnails">
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client4.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client3.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client2.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client1.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo1.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo2.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo3.png"></a></li>
                             </ul>
                         </div>
                     </div>
@@ -317,10 +317,10 @@
                     <div class="item">
                         <div class="row-fluid">
                             <ul class="thumbnails">
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client1.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client2.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client3.png"></a></li>
-                                <li class="span3"><a href="#"><img src="images/sample/clients/client4.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo1.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo2.png"></a></li>
+                                <li class="span3"><a href="#"><img src="images/sample/clients/logo3.png"></a></li>
                             </ul>
                         </div>
                     </div>
