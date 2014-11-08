@@ -1,4 +1,7 @@
 <?php include 'inc/header.php' ?>
+<div class="pagename Portfolio">
+ </div>
+
 
     <section class="title">
         <div class="container">

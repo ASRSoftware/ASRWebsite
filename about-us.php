@@ -1,4 +1,6 @@
 <?php include 'inc/header.php' ?>
+<div class="pagename about-us">
+ </div>
 
     <section class="title">
         <div class="container">

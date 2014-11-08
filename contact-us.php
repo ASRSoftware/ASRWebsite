@@ -1,4 +1,6 @@
 <?php include 'inc/header.php' ?>
+<div class="pagename contact-us>
+</div>
 
     <!-- /header -->
 	 <section class="title">

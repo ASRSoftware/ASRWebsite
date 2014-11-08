@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>404 | Nova</title>
+    <title>ASR Softwares</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
 
@@ -47,7 +47,7 @@
                         <li><a href="about-us.php">About Us</a></li>
                         <li><a href="services.php">Services</a></li>
                         <li><a href="portfolio.php">Portfolio</a></li>
-                        <li class="dropdown active">
+                       <!--  <li class="dropdown active">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="icon-angle-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li><a href="career.php">Career</a></li>
@@ -61,8 +61,8 @@
                                 <li><a href="privacy.php">Privacy Policy</a></li>
                                 <li><a href="terms.php">Terms of Use</a></li>
                             </ul>
-                        </li>
-                        <li><a href="blog.php">Blog</a></li> 
+                        </li>  -->
+                     <!--    <li><a href="blog.php">Blog</a></li> -->
                         <li><a href="contact-us.php">Contact</a></li>
                         <li class="login">
                             <a data-toggle="modal" href="#loginForm"><i class="icon-lock"></i></a>
