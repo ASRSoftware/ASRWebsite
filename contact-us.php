@@ -31,23 +31,24 @@
                 <h4>Contact Form</h4>
                 <div class="status alert alert-success" style="display: none"></div>
 
-                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="http://shapebootstrap.net/demo/html/nova/sendemail.php">
+                <form id="main-contact-form" class="contact-form" name="contact-form" method="GET" action="#">
                   <div class="row-fluid">
                     <div class="span5">
                         <label>First Name</label>
-                        <input type="text" class="input-block-level" required="required" placeholder="Your First Name">
+                        <input type="text" class="input-block-level"  placeholder="Your First Name" name="firstname">
                         <label>Last Name</label>
-                        <input type="text" class="input-block-level" required="required" placeholder="Your Last Name">
+                        <input type="text" class="input-block-level"  placeholder="Your Last Name" name="lastname">
                         <label>Email Address</label>
-                        <input type="text" class="input-block-level" required="required" placeholder="Your email address">
+                        <input type="text" class="input-block-level"  placeholder="Your email address" name="email">
                     </div>
                     <div class="span7">
                         <label>Message</label>
-                        <textarea name="message" id="message" required="required" class="input-block-level" rows="8"></textarea>
+                        <textarea name="message" id="message"  class="input-block-level" rows="8"></textarea>
                     </div>
 
                 </div>
-                <button type="submit" class="btn btn-primary btn-large pull-right">Send Message</button>
+                <input type="submit" value="send message" class="btn btn-primary btn-large pull-right">
+                <!-- <button type="submit" class="btn btn-primary btn-large pull-right">Send Message</button> -->
                 <p> </p>
 
             </form>

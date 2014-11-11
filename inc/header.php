@@ -64,10 +64,7 @@
                         </li>  -->
                      <!--    <li><a href="blog.php">Blog</a></li> -->
                         <li><a href="contact-us.php">Contact</a></li>
-                        <li class="login">
-                            <a data-toggle="modal" href="#loginForm"><i class="icon-lock"></i></a>
-                        </li>
-                    </ul>        
+                    </ul>
                 </div><!--/.nav-collapse -->
             </div>
         </div>

@@ -6,23 +6,47 @@
     <section id="slide-show">
      <div id="slider" class="sl-slider-wrapper">
 
-        <!--Slider Items-->    
+        <!--Slider Items-->
         <div class="sl-slider">
             <!--Slider Item1-->
-            <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+            <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="0" data-slice2-rotation="0" data-slice1-scale="1" data-slice2-scale="1">
                 <div class="sl-slide-inner">
                     <div class="container">
                         <img class="pull-right" src="images/sample/slider/img1.png" alt="" />
                         <h2>Creative Ideas</h2>
-                        <h3 class="gap">Tincidunt condimentum eros</h3>
-                        <a class="btn btn-large btn-transparent" href="#">Learn More</a>
+                        <h3 class="gap">progressive ideas</h3>
+                        <a class="btn btn-large btn-transparent" href="services.php">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <!--/Slider Item1-->
+            <!--Slider Item1-->
+            <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="0" data-slice2-rotation="0" data-slice1-scale="1" data-slice2-scale="1">
+                <div class="sl-slide-inner">
+                    <div class="container">
+                        <img class="pull-right" src="images/sample/slider/img2.png" alt="" />
+                        <h2>Problem solving</h2>
+                        <h3 class="gap">We're passionate to find solutions to your problems</h3>
+                        <a class="btn btn-large btn-transparent" href="services.php">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <!--/Slider Item1-->
+            <!--Slider Item1-->
+            <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="0" data-slice2-rotation="0" data-slice1-scale="1" data-slice2-scale="1">
+                <div class="sl-slide-inner">
+                    <div class="container">
+                        <img class="pull-right" src="images/sample/slider/img3.png" alt="" />
+                        <h2>Made for all</h2>
+                        <h3 class="gap">Responsive web designs</h3>
+                        <a class="btn btn-large btn-transparent" href="services.php">Learn More</a>
                     </div>
                 </div>
             </div>
             <!--/Slider Item1-->
 
             <!--Slider Item2-->
-            <div class="sl-slide item2" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
+<!--             <div class="sl-slide item2" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
                 <div class="sl-slide-inner">
                     <div class="container">
                         <img class="pull-right" src="images/sample/slider/img2.png" alt="" />
@@ -31,11 +55,11 @@
                         <a class="btn btn-large btn-transparent" href="#">Learn More</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--Slider Item2-->
 
             <!--Slider Item3-->
-            <div class="sl-slide item3" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
+<!--             <div class="sl-slide item3" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
                 <div class="sl-slide-inner">
                    <div class="container">
                     <img class="pull-right" src="images/sample/slider/img3.png" alt="" />
@@ -44,18 +68,18 @@
                     <a class="btn btn-large btn-transparent" href="#">Learn More</a>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--Slider Item3-->
 		
 		
 		<!--Slider Item4-->
-		<div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+<!-- 		<div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
                 <div class="sl-slide-inner">
                     <div class="container">
                         <img class="pull-right" src="images/sample/slider/img4.png" alt="" />
                     </div>
                 </div>
-            </div>
+            </div> -->
 		
 		<!--Slider Item4-->
 		
@@ -75,12 +99,6 @@
 <!-- /slider-wrapper -->           
 </section>
 <!--/Slider-->
-
-<section class="main-info">
-    <div class="container">
-        
-    </div>
-</section>
 
 <!--Services-->
 <section id="services">
