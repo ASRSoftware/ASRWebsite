@@ -40,7 +40,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </a>
-                <a id="logo" class="pull-left" href="index.html"></a>
+                <a id="logo" class="pull-left" href="index.html">
+                    <img src="img/logo.png">
+                </a>
                 <div class="nav-collapse collapse pull-right">
                     <ul class="nav">
                         <li><a href="index.php">Home</a></li>
