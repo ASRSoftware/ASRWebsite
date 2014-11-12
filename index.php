@@ -44,6 +44,23 @@
                 </div>
             </div>
             <!--/Slider Item1-->
+			
+			 <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+                <div class="sl-slide-inner">
+                    <div class="container">
+                        <img class="pull-right" src="images/sample/slider/e-commerce-website-banner.png" alt="" />
+                        <h2>Creative Ideas</h2>
+                        <h3 class="gap">Tincidunt condimentum eros</h3>
+                        <a class="btn btn-large btn-transparent" href="#">Learn More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			
+			
+			
+			
 
             <!--Slider Item2-->
 <!--             <div class="sl-slide item2" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
@@ -83,6 +100,8 @@
 		
 		<!--Slider Item4-->
 		
+		
+				
 		
 
     </div>
