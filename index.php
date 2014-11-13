@@ -1,6 +1,6 @@
 <?php include 'inc/header.php' ?>
 <div class="pagename index">
- </div>
+</div>
 
     <!--Slider-->
     <section id="slide-show">
@@ -323,9 +323,8 @@
                         <a class="prev" href="#myCarousel" data-slide="prev"><i class="icon-angle-left icon-large"></i></a> <a class="next" href="#myCarousel" data-slide="next"><i class="icon-angle-right icon-large"></i></a>
                     </div>
                 </div>
-                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
             </div>
-            <div class="span10">
+            <div class="span12">
                 <div id="myCarousel" class="carousel slide clients">
                   <!-- Carousel items -->
                   <div class="carousel-inner">
