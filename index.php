@@ -45,7 +45,7 @@
             </div>
             <!--/Slider Item1-->
 			
-			 <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+	<!-- 		 <div class="sl-slide item1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
                 <div class="sl-slide-inner">
                     <div class="container">
                         <img class="pull-right" src="images/sample/slider/e-commerce-website-banner.png" alt="" />
@@ -54,7 +54,7 @@
                         <a class="btn btn-large btn-transparent" href="#">Learn More</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 			
 			
 			

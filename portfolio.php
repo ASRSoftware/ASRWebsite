@@ -134,7 +134,7 @@
                     <div class="modal-body">
                         <img src="images/portfolio/full/AvniPhotocom.jpg" alt=" " width="100%" style="max-height:400px">
                     </div>
-                </div>                 
+                </div>
             </li>
             <!--/Item 5--> 
 
