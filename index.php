@@ -173,8 +173,8 @@
                         <i class="icon-shopping-cart icon-medium"></i>
                     </div>
                     <div class="media-body">
-                        <h4 class="media-heading">Content Management Systems</h4>
-                        <p>All Swift Creations websites can be built on an easy to use website Content Management System (CMS) platform. This will run through your standard Internet browser and offers an intuitive, easy to use interface for managing all the content on your website.</p>
+                        <h4 class="media-heading">Application software</h4>
+                        <p>Application software is a set of one or more programs designed to carry out operations for a specific application. Application software cannot run on itself but is dependent on system software to execute. Examples of types of application software may include accounting software etc.</p>
                     </div>
                 </div>
             </div>            
