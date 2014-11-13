@@ -10,6 +10,20 @@ jQuery(function($) {
 		return false;
 	});
 
+
+	$('#contact-page form').submit(function(e){
+		e.preventDefault();
+		var data = $(this).serializeArray();
+                // alert(data);
+		$.post('sendMail.php', data , function(e){
+                    if(e == 'true'){
+                        alert('your message has been sent!');
+                    }else{
+                        // do nothing.
+                    }
+		})
+	});
+
 	//Goto Top
 	$('.gototop').click(function(event) {
 		 event.preventDefault();

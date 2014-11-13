@@ -118,8 +118,8 @@
 
             <div class="span6">
                 <ul class="social pull-right">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="https://www.facebook.com/pages/ASR-Softwares/1506808756237577"><i class="icon-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/asr_softwares?lang=en"><i class="icon-twitter"></i></a></li>
                  <!-- <li><a href="#"><i class="icon-pinterest"></i></a></li>
                     <li><a href="#"><i class="icon-linkedin"></i></a></li>
                     <li><a href="#"><i class="icon-google-plus"></i></a></li>                       

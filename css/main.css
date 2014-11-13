@@ -43,3 +43,7 @@
 #preview-portfolio-item .close-preview-portfolio-item:hover{
     background-color: #2dcc70;
 }
+
+.title h1{
+    margin-left: 180px;
+}

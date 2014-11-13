@@ -31,7 +31,7 @@
                 <h4>Contact Form</h4>
                 <div class="status alert alert-success" style="display: none"></div>
 
-                <form id="main-contact-form" class="contact-form" name="contact-form" method="GET" action="#">
+                <form id="contactForm" name="" method="POST" action="sendMail.php">
                   <div class="row-fluid">
                     <div class="span5">
                         <label>First Name</label>
@@ -51,8 +51,8 @@
                 <!-- <button type="submit" class="btn btn-primary btn-large pull-right">Send Message</button> -->
                 <p> </p>
 
-            </form>
-        </div>
+                </form>
+            </div>
 
         <div class="span3">
             <h4>Our Address</h4>
