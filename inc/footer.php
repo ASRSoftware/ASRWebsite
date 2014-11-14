@@ -112,7 +112,7 @@
     <div class="container">
         <div class="row-fluid">
             <div class="span5 cp">
-                &copy; 2013 <a target="_blank" href="http://www.asrsoftwares.com/" title="ASR Softwares">ASR Softwares</a>. All Rights Reserved.
+                &copy; 2013 <a target="_blank" href="http://www.asrsoftwares.com/" title="ASR Softwares">ASR Softwares Pvt.Ltd.</a>. All Rights Reserved.
             </div>
             <!--/Copyright-->
 
