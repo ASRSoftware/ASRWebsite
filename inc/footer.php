@@ -25,7 +25,7 @@
                     </li>
                     <li>
                         <i class="icon-phone"></i>
-                        <strong>Toll Free:</strong>  + 912220870567 
+                        <strong>Mobile:</strong>  + 919323170514 
                     </li>
                 </ul>
             </div>
