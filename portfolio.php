@@ -23,7 +23,8 @@
 
     <section id="portfolio" class="container main">    
         <ul class="gallery col-4">
-            <!--Item 1-->
+         
+		   <!--Item 1-->
             <li>
                 <div class="preview">
                     <img alt=" " src="images/portfolio/full/Pal&Pal.jpg">
@@ -92,8 +93,8 @@
             </li>
             <!--/Item 3--> 
 
-            <!--Item 4-->
-            <li>
+           <!--Item 4-->
+          <br/>  <li>
                 <div class="preview">
                     <img alt=" " src="images/portfolio/thumb/z4.jpg">
                     <div class="overlay">
@@ -114,7 +115,7 @@
                 </div>                 
             </li>
             <!--/Item 4--> 
-
+         
             <!--Item 5-->
             <li>
                 <div class="preview">
