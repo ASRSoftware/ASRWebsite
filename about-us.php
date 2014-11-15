@@ -33,12 +33,12 @@
 				our team members have the expertise to design attractive and user friendly HTML site depending on your needs.</h4></p>
             </div>
             <div class="span6">
-                <h2>Our Skills</h2>
+                <h2>Our Experts</h2>
                 <div>
-                    <div class="progress"><div class="bar" style="width: 80%; text-align:left; padding-left:10px;">Wordpress</div></div>
-                    <div class="progress progress-warning"><div class="bar" style="width: 70%; text-align:left; padding-left:10px;">Joomla</div></div>
-                    <div class="progress progress-info"><div class="bar" style="width: 60%; text-align:left; padding-left:10px;">Drupal</div></div>
-                    <div class="progress progress-danger"><div class="bar" style="width: 90%; text-align:left; padding-left:10px;">Magento</div></div>
+                    <div class="progress"><div class="bar" style="width: 80%; text-align:left; padding-left:10px;">PHP</div></div>
+                    <div class="progress progress-warning"><div class="bar" style="width: 80%; text-align:left; padding-left:10px;">HTML5</div></div>
+                    <div class="progress progress-info"><div class="bar" style="width: 85%; text-align:left; padding-left:10px;">JAVA</div></div>
+                    <div class="progress progress-danger"><div class="bar" style="width: 80%; text-align:left; padding-left:10px;">LOGO Design</div></div>
                 </div>
             </div>
         </div>
@@ -91,8 +91,8 @@
       <div class="accordion-heading">
         <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
           E-commerce Solutions
-      </a>
-  </div>
+          </a>
+         </div>
   <div id="collapseThree" class="accordion-body collapse">
     <div class="accordion-inner">
       For many businesses an online shop or Ecommerce website is a important extension of your existing business into the ever increasingly popular world of online shopping.
@@ -100,6 +100,29 @@
   </div>
 </div>
 </div>
+
+<div class="accordion-group">
+      <div class="accordion-heading">
+        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+          LOGO Design
+          </a>
+         </div>
+  <div id="collapseFour" class="accordion-body collapse">
+    <div class="accordion-inner">
+      A logo is a sketched or graphically designed symbol, set in a specific typeface or font, and arranged in a unique way, with distinct colors, shapes, and designs to represent a company, product, organization, agency, or service.
+
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
 </div>
 </div>
 </div>
