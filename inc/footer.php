@@ -6,7 +6,10 @@
         <!--row-fluids-->
         <div class="row-fluid">
 <div >
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.5219219292694!2d73.06457649206541!3d19.04077695018364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c2161cd00e89%3A0x161402ab78479c2b!2sBuilding+Landmark!5e0!3m2!1sen!2sin!4v1415089154119" width="500" height="250" align="centre" frameborder="0" style="border:0"></iframe>
+
+            <div class="span7">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.5219219292694!2d73.06457649206541!3d19.04077695018364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c2161cd00e89%3A0x161402ab78479c2b!2sBuilding+Landmark!5e0!3m2!1sen!2sin!4v1415089154119" width="500" height="250" align="centre" frameborder="0" style="border:0"></iframe>
+            </div>
 
             <!--Contact Form-->
              <div class="span3">
