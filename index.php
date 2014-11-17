@@ -158,7 +158,7 @@
                     </div>
                     <div class="media-body">
                         <h4 class="media-heading">E-commerce Solutions</h4>
-                        <p>For many businesses an online shop or Ecommerce website is a important extension of your existing business into the ever increasingly popular world of online shopping.</p>
+                        <p>For many businesses an online shop or Ecommerce website is a important extension of your existing business into the ever increasingly popular world of Online Shopping.</p>
                     </div>
                 </div>
             </div>
