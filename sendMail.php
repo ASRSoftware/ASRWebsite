@@ -3,7 +3,7 @@ $posted = $_POST;
     print_r($posted);
     if(isset($posted)){
         
-        $to = "bonifacepereira@gmail.com";
+        $to = "info@asrsoftwares.com";
         $subject = "HTML email";
         $message = "<br> <strong>Sender:</strong> ".$posted['firstname'].' '.$posted['lastname'];
         $message .= "<br> <strong>Email of sender</strong>: ".$posted['email'];
