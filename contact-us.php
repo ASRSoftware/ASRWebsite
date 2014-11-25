@@ -62,7 +62,7 @@
                                        Office No.1204,12th Floor,<br/>
                                        The Landmark Building,<br/>
                                        Plot No-26/A,Sector-7<br/>
-                                       Kharghar,Navi Mumabi-410210,<br/>
+                                       Kharghar,Navi Mumbai-410210,<br/>
                                        Tal.Panvel Dist.Raigad <br>
                 
             </p>
@@ -70,7 +70,7 @@
                 <i class="icon-envelope"></i> &nbsp; info@asrsoftwares.com
             </p>
             <p>
-                <i class="icon-phone"></i> &nbsp;+ 912220870567 
+                <i class="icon-phone"></i> &nbsp;+91 2220870567 / +91 9323170514
             </p>
             <p>
                 <i class="icon-globe"></i> &nbsp;http://www.asrsoftwares.com 

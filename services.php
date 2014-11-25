@@ -28,7 +28,7 @@
                          <img src="images/web.png" alt=" " style="max-height:300px">
                         <p> </p>
                         <h4>Web Design & Development</h4>
-                        <p>Our website design service includes everything needed to get your business online. This includes a custom designed website, logo, web hosting, domain name, content management system (CMS) and more.</p>
+                        <p>Our website design service includes everything needed to get your business online. This includes a custom designed website, logo, web hosting, domain name, content management system (CMS).</p>
                     </div>
                 </div>
 
@@ -37,7 +37,7 @@
                         <img src="images/maintenace.png" alt=" " style="max-height:300px">
                         <p> </p>
                         <h4>Website Maintenance</h4>
-                        <p>Swift Creations can make minor or major modifications to any website regardless of its type and size. Our website maintenance includes editing content, adding new functionality, the creation of new web pages and more.</p>
+                        <p>Swift Creations can make minor or major modifications to any website regardless of its type and size. Our website maintenance includes editing content, adding new functionality, the creation of new web pages.</p>
                     </div>
                 </div>
 
