@@ -2,7 +2,6 @@
 $posted = $_POST;
     print_r($posted);
     if(isset($posted)){
-        
         $to = "info@asrsoftwares.com";
         $subject = "HTML email";
         $message = "<br> <strong>Sender:</strong> ".$posted['firstname'].' '.$posted['lastname'];
